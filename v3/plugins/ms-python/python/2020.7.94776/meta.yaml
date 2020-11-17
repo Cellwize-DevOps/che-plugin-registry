@@ -13,7 +13,7 @@ category: Language
 firstPublicationDate: '2020-10-08'
 spec:
   containers:
-  - image: "israelber/chime-sidecar-python:next"
+  - image: "cellwizeltd/chime-sidecar-python:3.8.6-07bb007"
     name: vscode-python
     memoryLimit: '512Mi'
   extensions:
